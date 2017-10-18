@@ -84,6 +84,7 @@
 
     </dependencies>
 
+    //解决validate bound 问题
     <build>
         <resources>
             <resource>
